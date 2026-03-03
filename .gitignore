@@ -1,0 +1,7 @@
+# Runtime artifacts
+cycle_closed.json
+storage/
+
+# Python cache
+__pycache__/
+*.pyc
